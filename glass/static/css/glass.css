@@ -1,0 +1,9 @@
+/* CSS for GlassXBlock */
+
+.glass_block .count {
+    font-weight: bold;
+}
+
+.glass_block p {
+    cursor: pointer;
+}

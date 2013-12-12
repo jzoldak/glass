@@ -23,7 +23,6 @@ setup(
     ],
     install_requires=[
         'XBlock',
-        'requests',
     ],
     entry_points={
         'xblock.v1': [
